@@ -1,1 +1,1 @@
-Ceci est un cours d'intro à dit
+Ceci est un cours d'introduction à Git.
